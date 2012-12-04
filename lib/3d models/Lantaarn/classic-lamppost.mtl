@@ -1,0 +1,50 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 04.07.2011 15:19:50
+
+newmtl _classic_lamppoststainless_steel
+	Ns 292.1569
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.6400 0.6400 0.6400
+	Ks 1.5000 1.5000 1.5000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _classic_lamppostconcrete
+	Ns 498.0392
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.6955 0.6875 0.7115
+	Ks 0.0200 0.0200 0.0200
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _classic_lamppostBlack_paint
+	Ns 154.9020
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0800 0.0800 0.0800
+	Ks 0.8000 0.8000 0.8000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _classic_lamppostGlass
+	Ns 782.3529
+	Ni 1.5000
+	d 0.3000
+	Tr 0.7000
+	Tf 0.3000 0.3000 0.3000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.4800 0.4800 0.5600
+	Ks 1.5000 1.5000 1.5000
+	Ke 0.0000 0.0000 0.0000
