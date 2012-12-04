@@ -5,7 +5,7 @@ Scripting language:       Actionscript 3  <br/>
 Framworks:                Alternativa 3D   <br/>
 Development environment:  FlashDevelop  <br/>
 
-General description:
+General description: <br/>
 This prototpye was made as a A facebook game for the housing market. Think of games like farmvile, cityvile, etc 
 and games like simcity, sims, etc. When you combine these ideas get a facebook game where players can build their 
 own village on the basis of houses in real sale. Furthermore, the player can continue to furnish the village 
